@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # download latest release and unzip it
-curl -LO https://github.com/tindy2013/subconverter/releases/0.6.4/download/subconverter_linux64.tar.gz
+curl -LO https://github.com/tindy2013/subconverter/releases/download/v0.7.2/subconverter_linux64.tar.gz
 tar xvf subconverter_linux64.tar.gz
 rm subconverter_linux64.tar.gz
 # change extension to make now recognize it
